@@ -1,0 +1,1 @@
+# BFH_ML1_ChakkaMangaClassifier
