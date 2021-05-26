@@ -11,7 +11,7 @@ Our Project chakka manga classifier is a binary image classifier to classify cha
 ## Team Id
 BFH/recN2x00KlGzXdzdn/2021
 ## Link to product walkthrough
-[https://www.loom.com/share/3f677cb0bd914431b09ebb17bc0a2038]
+https://www.loom.com/share/3f677cb0bd914431b09ebb17bc0a2038
 ## How it Works ?
 1. Step 1
 2. Step 2
