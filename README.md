@@ -15,7 +15,7 @@ https://www.loom.com/share/3f677cb0bd914431b09ebb17bc0a2038
 ## How it Works ?
 1. It accepts image as input by two ways (URL and upload)
 2. Predict function will predict the image using the model created using tensorflow
-3. Based on the result the name of the class is rendered on the front end using jquery.
+3. Based on the result the name of the class is rendered on the front end.
 ## Libraries used
 Library Name - Version
 ## How to configure
