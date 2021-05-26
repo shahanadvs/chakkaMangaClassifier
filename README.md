@@ -3,7 +3,7 @@
 
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Chakka Manga Classifier
-Our Project chakka manga classifier is a binary image classifier to classify chakka and manga.Here this will classify the inputed image is a chakka or manga. Convolutional neural network(CNN) is used in this.This is built by using tensorflow and is converted using tensorflow converter.And here it is implemented as static web using tensorflow js.
+Chakka Manga classifier is a CNN binary image classifier to classify Mango and Jackfruit. Here the model will classify the input image as a Jackfruit or Mango. The Convolutional neural network (CNN) model is created using tensorflow and converted into tensorflowjs (JSON) model using tensorflowjs converter wizrd. The converted model is loaded into js file using tensorflowjs CDN and will predict the class of input image. The prediction result is rendered in the front end build using HTML and Bootstrap. 
 ## Team members
 1. Shahanad Vs- ShahanadVs#0260 [https://github.com/shahanadvs]
 2. Shahanas- shahanas#6688 [https://github.com/Shahanas-Shaha]
@@ -23,7 +23,13 @@ Tensorflow js - 3.6.0
 Bootstrap - 4.6.0
 Tensorflowjs converter
 ## How to configure
-Instructions for setting up project
+To run the project no need for additional configuration.
+To work with the model
+1. Download the whole files
+2. Install the dependencies mentioned above (Use "conda install package-name" command)
+3. Navigate to the downloaded directory
+4. Create and activate tensorflow environment
+5. To convert the SavedModel to tensorflowjs use the tensorflowjs converter wizard
 ## How to Run
 1. Step 1: Open this link.. https://shahanadvs.github.io/chakkaMangaClassifier/
 2. Step 2: Upload or paste the Url of desired image in the input option.
