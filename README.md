@@ -3,7 +3,6 @@
 
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 ## Chakka Manga Classifier
-Chakka Manga Classifier
 Our Project chakka manga classifier is a binary image classifier to classify chakka and manga.Here this will classify the inputed image is a chakka or manga. Convolutional neural network(CNN) is used in this.This is built by using tensorflow and is converted using tensorflow converter.And here it is implemented as static web using tensorflow js.
 ## Team members
 1. Shahanad Vs- ShahanadVs#0260 [https://github.com/shahanadvs]
