@@ -4,6 +4,7 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Chakka Manga Classifier
 Chakka Manga classifier is a CNN binary image classifier to classify Mango and Jackfruit. Here the model will classify the input image as a Jackfruit or Mango. The Convolutional neural network (CNN) model is created using tensorflow and converted into tensorflowjs (JSON) model using tensorflowjs converter wizrd. The converted model is loaded into js file using tensorflowjs CDN and will predict the class of input image. The prediction result is rendered in the front end build using HTML and Bootstrap. 
+![Prediction Result Gif](https://github.com/shahanadvs/chakkaMangaClassifier/blob/main/Prediction_Result.gif?raw=true)
 ## Team members
 1. Shahanad Vs- ShahanadVs#0260 [https://github.com/shahanadvs]
 2. Shahanas- shahanas#6688 [https://github.com/Shahanas-Shaha]
