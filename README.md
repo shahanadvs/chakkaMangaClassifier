@@ -18,9 +18,13 @@ https://www.loom.com/share/3f677cb0bd914431b09ebb17bc0a2038
 3. Based on the result the name of the class is rendered on the front end using jquery.
 ## Libraries used
 1.Tensorflow - 2.4.1
+
 2.Numpy - 1.192
+
 3.Tensorflow js - 3.6.0
+
 4.Bootstrap - 4.6.0
+
 5.Tensorflowjs converter
 ## How to configure
 Instructions for setting up project
