@@ -20,7 +20,7 @@ Library Name - Version
 ## How to configure
 Instructions for setting up project
 ## How to Run
-1. Step 1: Open this link.. https://github.com/shahanadvs/chakkaMangaClassifier
+1. Step 1: Open this link.. https://shahanadvs.github.io/chakkaMangaClassifier/
 2. Step 2: Upload or paste the Url of desired image in the input option.
 3. Step 3: After uploading the image click the predict button.
 4. Step 4: And here you will get the prediction that whether the inputed image is chakka or manga
